@@ -12,7 +12,7 @@
 	<artifactId>cake</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>cake</name>
-	<description>Tools for password storage</description>
+	<description>Tools for convenience in using computer</description>
 	<properties>
 		<java.version>20</java.version>
 	</properties>
